@@ -3,7 +3,7 @@
 ---
 
 
-##Dados pessoais
+## Dados pessoais
 
 CPF: XXX.XXX.XXX-XX
 
@@ -13,7 +13,7 @@ Telefone: (XX)XXXXX-XXXX
 
 E-mal: XXXXXXXXXXXX@gmail.com
 
-Expêriencia:
+## Expêriencia:
 
 - estagiario na pasqualoto;
 
