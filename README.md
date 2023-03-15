@@ -1,6 +1,5 @@
 # João Pedro Lopes
 
----
 
 
 ## Dados pessoais
